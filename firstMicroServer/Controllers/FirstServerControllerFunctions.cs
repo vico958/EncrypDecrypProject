@@ -30,7 +30,6 @@ namespace firstMicroServer.Controllers
             try
             {
                 string decryptingUrl = $"{url}decrypting-encrypted-data";
-                Console.WriteLine(decryptingUrl);
                 var json = JsonConvert.SerializeObject(encryptedMessage);
                 HttpContent dataToSend = new StringContent(json, Encoding.UTF8, "application/json");
                 var response = await client.PostAsync(decryptingUrl, dataToSend);
