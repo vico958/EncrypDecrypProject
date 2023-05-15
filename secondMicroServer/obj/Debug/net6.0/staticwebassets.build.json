@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jmzRxZZ7ty6vFeNW68dOsB+M4m+lm0hi9wVTP+Ywg0k=",
+  "Source": "secondMicroServer",
+  "BasePath": "_content/secondMicroServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

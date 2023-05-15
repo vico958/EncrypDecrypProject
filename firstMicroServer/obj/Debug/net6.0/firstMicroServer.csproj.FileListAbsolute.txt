@@ -1,0 +1,106 @@
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\appsettings.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\firstMicroServer.exe
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\firstMicroServer.deps.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\firstMicroServer.runtimeconfig.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.AssemblyReference.cache
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfoInputs.cache
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfo.cs
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CoreCompileInputs.cache
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.firstMicroServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.build.firstMicroServer.props
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstMicroServer.props
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstMicroServer.props
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\scopedcss\bundle\firstMicroServer.styles.css
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CopyComplete
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\refint\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\firstMicroServer.genruntimeconfig.cache
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\obj\Debug\net6.0\ref\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vicos\Desktop\work\עבודה עם רועי\firstMicroServer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\appsettings.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\firstMicroServer.exe
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\firstMicroServer.deps.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\firstMicroServer.runtimeconfig.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.AssemblyReference.cache
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfoInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfo.cs
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CoreCompileInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.firstMicroServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.build.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\scopedcss\bundle\firstMicroServer.styles.css
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CopyComplete
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\refint\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\firstMicroServer.genruntimeconfig.cache
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\obj\Debug\net6.0\ref\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\firstMicroServer\bin\Debug\net6.0\EncryptDecryptLibray.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\appsettings.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\firstMicroServer.exe
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\firstMicroServer.deps.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\firstMicroServer.runtimeconfig.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\bin\Debug\net6.0\EncryptDecryptLibray.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.AssemblyReference.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfoInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.AssemblyInfo.cs
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CoreCompileInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.firstMicroServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.build.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstMicroServer.props
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\scopedcss\bundle\firstMicroServer.styles.css
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.csproj.CopyComplete
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\refint\firstMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\firstMicroServer.genruntimeconfig.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\firstMicroServer\obj\Debug\net6.0\ref\firstMicroServer.dll
