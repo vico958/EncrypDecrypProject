@@ -9,7 +9,7 @@ namespace EncryptDecryptLibray
 {
     public static class DataValidator
     {
-        public static bool IsValidData(string data)
+        public static bool IsNotValidData(string data)
         {
             return string.IsNullOrEmpty(data);
         }

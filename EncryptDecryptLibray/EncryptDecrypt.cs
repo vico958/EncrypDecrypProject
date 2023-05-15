@@ -7,7 +7,7 @@ namespace EncryptDecryptLibray
     {
         public static void CreateKeyAndVector(out byte[] key, out byte[] iv, string fileName)
         {
-            CheckIfFileStringIsGood(fileName);
+            CheckIfDataStringIsGood(fileName);
             key = new byte[16];
             iv = new byte[16];
             using (RandomNumberGenerator rng = RandomNumberGenerator.Create())
@@ -29,7 +29,7 @@ namespace EncryptDecryptLibray
         }
         public static void ReadKeyAndIvFromFile(out byte[] key, out byte[] iv, ref string fileName)
         {
-            CheckIfFileStringIsGood(fileName);
+            CheckIfDataStringIsGood(fileName);
             StreamReader r = new StreamReader(fileName);
             string json = r.ReadToEnd();
             KeyAndIvObject item = JsonConvert.DeserializeObject<KeyAndIvObject>(json);
@@ -40,11 +40,11 @@ namespace EncryptDecryptLibray
             key = item.Key;
             iv = item.IV;
         }
-        private static void CheckIfFileStringIsGood(string fileName)
+        public static void CheckIfDataStringIsGood(string data)
         {
-            if (DataValidator.IsValidData(fileName))
+            if (DataValidator.IsNotValidData(data))
             {
-                throw new ArgumentException("fileName is null or empty");
+                throw new ArgumentException("data is null or empty");
             }
         }
     }

@@ -11,6 +11,7 @@ namespace firstMicroServer.Controllers
         private static readonly HttpClient client = new HttpClient();
         public static async Task<string> EncrypMessageAsync(string message)
         {
+            EncryptDecrypt.CheckIfDataStringIsGood(message);
             byte[] key, iv;
             string fileName = @"C:\Users\\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\KeyAndIv.json";
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
@@ -19,6 +20,10 @@ namespace firstMicroServer.Controllers
         }
         private static async Task<string> SendMessageToOtherServer(byte[] encryptedMessage)
         {
+            if(DataValidator.IsValidByteArr(encryptedMessage) == false) 
+            {
+                throw new Exception("encrypted message not valid");
+            }
             try
             {
                 string newUrl = url + "decrypting-encrypted-data";
@@ -35,7 +40,7 @@ namespace firstMicroServer.Controllers
         }
         private static byte[] EncrypMessage(string message, byte[] key, byte[] iv)
         {
-            byte[] encryptedMessage;
+            byte[] encryptedMessage = null;
             using (Aes aes = Aes.Create())
             {
                 ICryptoTransform cryptoEncryptor = aes.CreateEncryptor(key, iv);

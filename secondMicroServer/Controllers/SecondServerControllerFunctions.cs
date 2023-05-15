@@ -7,7 +7,7 @@ namespace secondMicroServer.Controllers
     {
         private static string DecryptingData(byte[] encryptedData, byte[] key, byte[] iv)
         {
-            CheckIfKeyAndIvIsGoodAndIfNotThrowEx(key, iv);
+            CheckIfDataIsGoodAndIfNotThrowEx(key, iv, encryptedData);
             string decryptedData = null;
             using (Aes aes = Aes.Create())
             {
@@ -32,10 +32,10 @@ namespace secondMicroServer.Controllers
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
             return DecryptingData(encryptedData, key, iv);
         }
-        private static void CheckIfKeyAndIvIsGoodAndIfNotThrowEx(byte[] key, byte[] iv) {
-        if(DataValidator.IsValidByteArr(key) == false || DataValidator.IsValidByteArr(iv) == false)
+        private static void CheckIfDataIsGoodAndIfNotThrowEx(byte[] key, byte[] iv, byte[] encryptedData) {
+        if(DataValidator.IsValidByteArr(key) == false || DataValidator.IsValidByteArr(iv) == false || DataValidator.IsValidByteArr(encryptedData) == false)
             {
-                throw new ArgumentException("key or iv is not valid");
+                throw new ArgumentException("key or iv or encrypted data is not valid");
             }
         }
     }
