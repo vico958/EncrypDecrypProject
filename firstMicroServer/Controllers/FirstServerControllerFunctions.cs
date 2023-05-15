@@ -29,10 +29,11 @@ namespace firstMicroServer.Controllers
             }
             try
             {
-                string newUrl = url + "decrypting-encrypted-data";
+                string decryptingUrl = $"{url}decrypting-encrypted-data";
+                Console.WriteLine(decryptingUrl);
                 var json = JsonConvert.SerializeObject(encryptedMessage);
                 HttpContent dataToSend = new StringContent(json, Encoding.UTF8, "application/json");
-                var response = await client.PostAsync(newUrl, dataToSend);
+                var response = await client.PostAsync(decryptingUrl, dataToSend);
                 return await response.Content.ReadAsStringAsync();
             }
             catch (Exception ex)
