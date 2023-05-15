@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncryptDecryptLibray\\EncryptDecryptLibray.csproj",
+      "projectUniqueName": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncrypDecrypProject\\EncryptDecryptLibray\\EncryptDecryptLibray.csproj",
       "projectName": "EncryptDecryptLibray",
-      "projectPath": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncryptDecryptLibray\\EncryptDecryptLibray.csproj",
+      "projectPath": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncrypDecrypProject\\EncryptDecryptLibray\\EncryptDecryptLibray.csproj",
       "packagesPath": "C:\\Users\\vicos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncryptDecryptLibray\\obj\\",
+      "outputPath": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncrypDecrypProject\\EncryptDecryptLibray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vicos\\AppData\\Roaming\\NuGet\\NuGet.Config",

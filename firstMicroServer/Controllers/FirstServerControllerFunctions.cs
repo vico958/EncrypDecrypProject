@@ -14,15 +14,14 @@ namespace firstMicroServer.Controllers
             byte[] key, iv;
             string fileName = @"C:\Users\\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\KeyAndIv.json";
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
-            byte[] encryptedMessage;
-            encryptedMessage = EncrypMessage(message, key, iv);
+            byte[] encryptedMessage = EncrypMessage(message, key, iv);
             return await SendMessageToOtherServer(encryptedMessage);
         }
         private static async Task<string> SendMessageToOtherServer(byte[] encryptedMessage)
         {
             try
             {
-                string newUrl = url + "decrypted-message-encrypted";
+                string newUrl = url + "decrypting-encrypted-data";
                 var json = JsonConvert.SerializeObject(encryptedMessage);
                 HttpContent dataToSend = new StringContent(json, Encoding.UTF8, "application/json");
                 var response = await client.PostAsync(newUrl, dataToSend);

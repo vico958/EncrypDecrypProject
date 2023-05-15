@@ -10,3 +10,15 @@ C:\Users\vicos\Desktop\work\workWithRoi\EncryptDecryptLibray\obj\Debug\net6.0\En
 C:\Users\vicos\Desktop\work\workWithRoi\EncryptDecryptLibray\obj\Debug\net6.0\refint\EncryptDecryptLibray.dll
 C:\Users\vicos\Desktop\work\workWithRoi\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.pdb
 C:\Users\vicos\Desktop\work\workWithRoi\EncryptDecryptLibray\obj\Debug\net6.0\ref\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\bin\Debug\net6.0\EncryptDecryptLibray.deps.json
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\bin\Debug\net6.0\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\bin\Debug\net6.0\EncryptDecryptLibray.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.csproj.AssemblyReference.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.AssemblyInfoInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.AssemblyInfo.cs
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.csproj.CoreCompileInputs.cache
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\refint\EncryptDecryptLibray.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\EncryptDecryptLibray.pdb
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\EncryptDecryptLibray\obj\Debug\net6.0\ref\EncryptDecryptLibray.dll

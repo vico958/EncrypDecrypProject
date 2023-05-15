@@ -7,6 +7,7 @@ namespace secondMicroServer.Controllers
     {
         private static string DecryptingData(byte[] encryptedData, byte[] key, byte[] iv)
         {
+            CheckIfKeyAndIvIsGoodAndIfNotThrowEx(key, iv);
             string decryptedData = null;
             using (Aes aes = Aes.Create())
             {
@@ -30,6 +31,12 @@ namespace secondMicroServer.Controllers
             string fileName = @"C:\Users\\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\KeyAndIv.json";
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
             return DecryptingData(encryptedData, key, iv);
+        }
+        private static void CheckIfKeyAndIvIsGoodAndIfNotThrowEx(byte[] key, byte[] iv) {
+        if(DataValidator.IsValidByteArr(key) == false || DataValidator.IsValidByteArr(iv) == false)
+            {
+                throw new ArgumentException("key or iv is not valid");
+            }
         }
     }
 }
