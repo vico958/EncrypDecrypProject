@@ -40,7 +40,7 @@ namespace EncryptDecryptLibray
             key = item.Key;
             iv = item.IV;
         }
-        public static void CheckIfDataStringIsGood(string data)
+        private static void CheckIfDataStringIsGood(string data)
         {
             if (DataValidator.IsNotValidData(data))
             {
