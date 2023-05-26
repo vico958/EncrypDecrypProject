@@ -100,3 +100,5 @@ C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\ob
 C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\obj\Debug\net6.0\secondMicroServer.pdb
 C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\obj\Debug\net6.0\secondMicroServer.genruntimeconfig.cache
 C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\obj\Debug\net6.0\ref\secondMicroServer.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\secondMicroServer\bin\Debug\net6.0\StackExchange.Redis.dll

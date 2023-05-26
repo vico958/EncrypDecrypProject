@@ -11,11 +11,12 @@ namespace secondMicroServer.Controllers
         {
             return "Hello world, i am working";
         }
-        [HttpPost("/decrypted-message-encrypted")]
-        public ActionResult<string> Decryptedmessageencrypted([FromBody] string encryptedData)
+        [HttpGet("/decrypted-message-encrypted")]
+        public ActionResult<string> Decryptedmessageencrypted()
         {
-            byte[] data = Convert.FromBase64String(encryptedData);
-            return SecondServerControllerFunctions.Decrypt(data);
+/*            [FromBody] string encryptedData*/
+/*            byte[] data = Convert.FromBase64String(encryptedData)*/;
+            return SecondServerControllerFunctions.Decrypt();
         }
     }
 }

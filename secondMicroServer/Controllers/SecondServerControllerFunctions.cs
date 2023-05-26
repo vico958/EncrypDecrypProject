@@ -1,10 +1,14 @@
 ﻿using EncryptDecryptLibray;
+using StackExchange.Redis;
 using System.Security.Cryptography;
+using System.Text;
 
 namespace secondMicroServer.Controllers
 {
     public static class SecondServerControllerFunctions
     {
+        private static ConfigurationOptions redisConfig = ConfigurationOptions.Parse("localhost:6379");
+        private static ConnectionMultiplexer redisConnection = ConnectionMultiplexer.Connect(redisConfig);
         private static string DecryptingData(byte[] encryptedData, byte[] key, byte[] iv)
         {
             string decryptedData = null;
@@ -24,12 +28,16 @@ namespace secondMicroServer.Controllers
             }
             return decryptedData;
         }
-        public static string Decrypt(byte[] encryptedData)
+        public static string Decrypt()
         {
             byte[] key, iv;
             string fileName = @"C:\Users\\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\KeyAndIv.json";
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
-            return DecryptingData(encryptedData, key, iv);
+            var redisDatabase = redisConnection.GetDatabase();
+            byte[] encryptedData = redisDatabase.StringGet("myEncryptedMessage");
+            var decryptedData = DecryptingData(encryptedData, key, iv);
+            redisDatabase.StringSet("myDcryptedMessage", decryptedData);
+            return decryptedData;
         }
     }
 }

@@ -1,17 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "uEl/Pj+efBOBUR0aTbuJtp9AxDIQmxpqsko2vi5fjx2NL2IRIWZRdSOM7RXSyV3Jvb8IKwPSGT5Ov8cdOwY4mw==",
+  "dgSpecHash": "4WVip7AFvLgpHYmxg3fQWj0CgN8c7acTYX/FPqciBz7LUMos8wtNeV86Dczena4A2dc0M9lj8ExmG9gQ29uGaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vicos\\Desktop\\work\\workWithRoi\\EncrypDecrypProject\\firstMicroServer\\firstMicroServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vicos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vicos\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\vicos\\.nuget\\packages\\stackexchange.redis\\2.6.111\\stackexchange.redis.2.6.111.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\vicos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\vicos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\vicos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\vicos\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
