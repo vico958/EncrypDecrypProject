@@ -9,6 +9,7 @@ namespace secondMicroServer.Controllers
     {
         private static ConfigurationOptions redisConfig = ConfigurationOptions.Parse("localhost:6379");
         private static ConnectionMultiplexer redisConnection = ConnectionMultiplexer.Connect(redisConfig);
+        private static IDatabase redisDatabase = redisConnection.GetDatabase();
         private static string DecryptingData(byte[] encryptedData, byte[] key, byte[] iv)
         {
             string decryptedData = null;
@@ -33,7 +34,6 @@ namespace secondMicroServer.Controllers
             byte[] key, iv;
             string fileName = @"C:\Users\\vicos\Desktop\work\workWithRoi\EncrypDecrypProject\KeyAndIv.json";
             EncryptDecrypt.ReadKeyAndIvFromFile(out key, out iv, ref fileName);
-            var redisDatabase = redisConnection.GetDatabase();
             byte[] encryptedData = redisDatabase.StringGet("myEncryptedMessage");
             var decryptedData = DecryptingData(encryptedData, key, iv);
             redisDatabase.StringSet("myDcryptedMessage", decryptedData);
